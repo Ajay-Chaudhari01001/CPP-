@@ -1,0 +1,25 @@
+.............WHAT IS INGERITANCE IN C++............
+
+1. The concept of Reusability in C++ is supported using Inheritance.
+2. We can reuse the properties of existing class bu inheriting from it 
+   the existing class is called as the Base class (Parent Class).
+3. The new class which is inherited is called as teh Derived class (Child Class).
+4. Reusing classes saves time and money.
+5. There are different types of inheritancce in C++.
+
+///////////// FORMS FO INGERITANCE IN C++ /////////////////
+
+1. Singel Inheritance -> A derived class with only one Base Class.
+
+2. Multiple Inheritance -> A derived class with more than one Base Classes.
+
+3. Hierarchical Inheritance -> Several (more than one) derived classes from a singel base class.
+
+4. Multilevel Inheritance -> Deriving a class from already derived class.
+
+5. Hybrid Inheritance -> is a combinatio of Hierarchical inheritancce and and Multilevel inheritance.
+                         A class is derived from two classes as in multiple inheritancce.
+                         However, one of the parent classes is not a base class.
+
+
+                                 🙂😊😉

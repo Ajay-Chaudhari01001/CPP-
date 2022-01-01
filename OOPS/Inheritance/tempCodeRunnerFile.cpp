@@ -1,0 +1,1 @@
+loat salary;
